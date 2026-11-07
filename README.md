@@ -11,11 +11,4 @@ B.Tech CSE student at SRM Institute of Science and Technology (2028), focused on
 
 🔮 Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,kotlin,androidstudio" /> </p>
-🚀 Featured Projects
-Project	What it does
-LensVoice	Android navigation assistant for visually impaired users.
-📊 GitHub Stats
-<p align="center"> <img height="180" src="https://raw.githubusercontent.com/abhinav-v10/abhinav-v10/main/profile-summary-card-output/dracula/3-stats.svg" /> <img height="180" src="https://raw.githubusercontent.com/abhinav-v10/abhinav-v10/main/profile-summary-card-output/dracula/2-most-commit-language.svg" /> </p>
-🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/abhinav-v10/abhinav-v10/output/github-snake-purple.svg" width="100%"/>
-<div align="center"> <sub>Open to ML / AI internships · Let's connect on LinkedIn</sub> </div>
+
